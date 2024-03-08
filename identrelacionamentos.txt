@@ -1,0 +1,9 @@
+aluno está matriculado em curso
+aluno cursa disciplina
+aluno realizou disciplina
+discilpina pertence a curso
+professor ministra disciplina
+professor pertence a departamento
+departamento é responsável por disciplina
+departamento controla curso
+disciplina depende de disciplina

@@ -1,0 +1,28 @@
+aluno:
+número de matrícula
+nome
+sobrenome
+endereço- rua, número, bairro, CEP, cidade, estado
+codigo do curso
+
+professor:
+código do professor
+nome
+sobrenome 
+código do departamento
+
+disciplina:
+codigo da disciplina
+nome da disciplina
+descrição curricular
+código do departamento
+número de alunos
+
+curso:
+código do curso
+nome do curso
+código do departamento
+
+departamento:
+código do departamento
+nome do departamento
