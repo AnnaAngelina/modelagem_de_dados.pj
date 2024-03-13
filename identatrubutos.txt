@@ -1,9 +1,34 @@
 aluno:
 número de matrícula
 nome
-sobrenome
 endereço- rua, número, bairro, CEP, cidade, estado
 codigo do curso
+telefone
+CPF
+
+aluno_cont:
+status
+filiação
+sexo
+contato
+cod_turma
+
+histórico:
+cod_historico
+notas
+media
+frequencia
+periodo_realização
+RA
+cod_disciplina
+
+turma:
+cod_turma
+periodo
+cod_curso
+num_alunos
+data_inicio
+data_fim
 
 professor:
 código do professor

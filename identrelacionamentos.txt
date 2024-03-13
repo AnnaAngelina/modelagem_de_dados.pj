@@ -7,3 +7,7 @@ professor pertence a departamento
 departamento é responsável por disciplina
 departamento controla curso
 disciplina depende de disciplina
+curso gera turma
+aluno pertence a turma
+histórico pertence a aluno
+histórico compõe disciplina

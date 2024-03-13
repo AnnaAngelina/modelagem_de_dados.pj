@@ -3,3 +3,6 @@ professor
 disciplina
 curso
 departamento
+aluno_cont
+histórico
+turma
