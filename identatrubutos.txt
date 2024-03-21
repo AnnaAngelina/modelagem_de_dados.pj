@@ -5,8 +5,6 @@ endereço- rua, número, bairro, CEP, cidade, estado
 codigo do curso
 telefone
 CPF
-
-aluno_cont:
 status
 filiação
 sexo
@@ -35,6 +33,7 @@ código do professor
 nome
 sobrenome 
 código do departamento
+status
 
 disciplina:
 codigo da disciplina
