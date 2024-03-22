@@ -3,7 +3,7 @@ aluno cursa disciplina
 aluno realizou disciplina
 discilpina pertence a curso
 professor ministra disciplina
-professor pertence a departamento
+um professor pertence a um departamento
 departamento é responsável por disciplina
 departamento controla curso
 disciplina depende de disciplina
