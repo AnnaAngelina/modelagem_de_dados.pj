@@ -1,0 +1,3 @@
+histórico compõe disciplina
+professor ministra disciplina
+curso pertence a disciplina
