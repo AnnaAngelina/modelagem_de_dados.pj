@@ -1,0 +1,17 @@
+HISTÓRICO:
+período_realização-
+data_inicio
+data_fim
+
+ALUNO:
+Filiação-
+nome_mae
+nome_pai
+
+Contato-
+Email
+Whatsapp
+
+Telefone-
+Tel_Residencial
+Tel_Celular
