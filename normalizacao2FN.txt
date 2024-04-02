@@ -1,0 +1,10 @@
+ALUNO:
+nome_rua
+num_rua
+CEP
+tel_residencial
+tel_celular #talvez
+#são atributos que particularmente podem não ser exclusivamente
+de um só aluno, logo, não é necessário o RA(no caso do tel_celular, pode ser que possa ficar pois pode sim ser algo que 
+dependa necessariamente do RA) por exemplo: nem todo aluno vai morar em um endereço diferente.
+
